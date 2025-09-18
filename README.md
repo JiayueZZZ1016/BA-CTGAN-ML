@@ -19,7 +19,7 @@ Our approach integrates data augmentation using a Generative Adversarial Network
 ****
 <img width="1980" height="2687" alt="image" src="https://github.com/user-attachments/assets/06351d03-24b8-44c9-bff8-759cd0e3079d" />
 
-*Figure: Overview of the Machine Learning Workflow *
+Figure: Overview of the Machine Learning Workflow
 
 ### 1\. Data Augmentation
 
@@ -61,4 +61,4 @@ To understand the factors influencing IBA generation, Shapley Additive Explanati
 
 If you use this code or the findings from our work, please cite the original paper:
 
-Zhang, J., Zhang, Y., Leong, Z. H., Zhang, Y., Chen, T., Fei, F., & Wen, Z. (2025). Mapping the Recycling Potential of Bottom Ashes from Waste-to-Energy Plants toward Circular Economy: Evidence from China. [cite\_start]*Environmental Science & Technology*. [cite: 8]
+Zhang, J., Zhang, Y., Leong, Z. H., Zhang, Y., Chen, T., Fei, F., & Wen, Z. (2025). Mapping the Recycling Potential of Bottom Ashes from Waste-to-Energy Plants toward Circular Economy: Evidence from China. *Environmental Science & Technology*. 
